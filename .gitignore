@@ -3,3 +3,4 @@
 /.tox
 /tests/__pycache__
 /.coverage
+/coverage.xml
