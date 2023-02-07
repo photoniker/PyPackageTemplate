@@ -12,6 +12,7 @@ pytest = "^5.2"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^3.0.4"
+scriv = {extras = ["toml"], version = "^1.2.0"}
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
