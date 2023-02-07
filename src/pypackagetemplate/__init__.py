@@ -1,3 +1,4 @@
-import pkg_resources
+"""docstring template for init file
+"""
 
-__version__ = pkg_resources.get_distribution("pypackagetemplate").version
+__version__ = "0.1.0"
